@@ -1,0 +1,11 @@
+C:\temp3\Games\GTA_V\FiveM\DevWork\Callouts\FirstCallout\FirstCallout\bin\Release\CitizenFX.Core.Client.dll
+C:\temp3\Games\GTA_V\FiveM\DevWork\Callouts\FirstCallout\FirstCallout\bin\Release\FivePD.net.dll
+C:\temp3\Games\GTA_V\FiveM\DevWork\Callouts\FirstCallout\FirstCallout\bin\Release\CitizenFX.Core.Client.xml
+C:\temp3\Games\GTA_V\FiveM\DevWork\Callouts\FirstCallout\FirstCallout\bin\Release\FivePD.net.xml
+C:\temp3\Games\GTA_V\FiveM\DevWork\Callouts\FirstCallout\FirstCallout\obj\Release\FirstCallout.csproj.AssemblyReference.cache
+C:\temp3\Games\GTA_V\FiveM\DevWork\Callouts\FirstCallout\FirstCallout\obj\Release\FirstCallout.csproj.CoreCompileInputs.cache
+C:\temp3\Games\GTA_V\FiveM\DevWork\Callouts\FirstCallout\FirstCallout\obj\Release\FirstCallout.csproj.CopyComplete
+C:\temp3\Games\GTA_V\FiveM\DevWork\Callouts\FirstCallout\FirstCallout\bin\Release\StreetFight.net.dll
+C:\temp3\Games\GTA_V\FiveM\DevWork\Callouts\FirstCallout\FirstCallout\bin\Release\StreetFight.net.pdb
+C:\temp3\Games\GTA_V\FiveM\DevWork\Callouts\FirstCallout\FirstCallout\obj\Release\StreetFight.net.dll
+C:\temp3\Games\GTA_V\FiveM\DevWork\Callouts\FirstCallout\FirstCallout\obj\Release\StreetFight.net.pdb
